@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# React + Vite
+What is Hook?
+    Hook is essentially a function with certain functionality.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    So, we have to create a js function to create custom hook.(prefer .js not .jsx)
 
-Currently, two official plugins are available:
+    We can use other hooks inside our custom hook, 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-README
->>>>>>> d45099783d5414af63919172248a5889fc3834c3
+    Return the whole
